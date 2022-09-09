@@ -10,6 +10,6 @@ The Phases of Penetration testing
 
 ![image](https://user-images.githubusercontent.com/42320878/189353053-459bc450-07f5-4ac8-877a-20597c20d5ae.png)
 
-## `Information Gathering` :monocle_face:  
+## `Penetration Testing` :desktop_computer:  
 
-## [Information Gathering` :monocle_face:](https://github.com/phanimapvs/My-notes/blob/main/Assessment%20Methodologies/Information%20Gathering.md)
+  - [Information Gathering / Reconnaissance :monocle_face:](https://github.com/phanimapvs/My-notes/blob/main/Assessment%20Methodologies/Information%20Gathering.md)
