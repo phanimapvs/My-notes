@@ -109,12 +109,3 @@
    
    ![image](https://user-images.githubusercontent.com/42320878/189415448-dd262dd9-0329-4033-a1b8-7efe7264c3d4.png)
 
-
-
-***Active Information Gathering:***
-  
-  Actively Interacting with the target to gather the information about it by pinging and scanning [Requires Authorization to perform Active Recon]. 
-  
-  - Discover the open ports and services of the target system
-  - Learning about internal infrastructure of a target network/Organization
-  - Enumerating the Information from target systems 
