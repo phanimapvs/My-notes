@@ -12,4 +12,7 @@ The Phases of Penetration testing
 
 ## `Penetration Testing` :desktop_computer:  
 
-  - [Information Gathering / Reconnaissance :monocle_face:](https://github.com/phanimapvs/My-notes/blob/main/Assessment%20Methodologies/Information%20Gathering.md)
+### `Information Gathering / Reconnaissance` :monocle_face:
+
+  - [ Passive Information Gathering ](https://github.com/phanimapvs/My-notes/blob/Changes/Assessment%20Methodologies/Passive%20Information%20Gathering.md)
+  - [ Active Information Gathering ](https://github.com/phanimapvs/My-notes/blob/Changes/Assessment%20Methodologies/Active%20Information%20Gathering.md)
