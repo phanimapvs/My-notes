@@ -3,6 +3,9 @@
 ***Passive Information Gathering:*** 
   
   Gathering the information about the target without directly interacting with the target. It involves gathering the information from various publicly available sources such as Google, Linkedin, Facebook etc
+  
+  ![image](https://user-images.githubusercontent.com/42320878/189478126-9ab9d739-3f98-43b8-bc59-8f25a4e3dde8.png)
+
 
  - ***Find IP addresses & DNS information***
  
